@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MrTRIZOz.aternos.me:41424",
+    "ip": "MrTRIZOz.aternos.me",
     "port": 41424,
     "version": "",
     "try-creative": false
