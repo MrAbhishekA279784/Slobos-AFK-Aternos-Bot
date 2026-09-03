@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MrTRIZOz.aternos.me:41424",
+    "ip": "houndshark.aternos.host",
     "port": 41424,
     "version": "1.20.1",
     "try-creative": false
